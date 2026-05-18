@@ -1,4 +1,5 @@
 --pycash--/
 *.pyc
 .env
+
 venv/
